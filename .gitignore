@@ -1,0 +1,11 @@
+.class
+.idea/
+*.iml
+*.iws
+*.ipr
+.txt
+log/
+target/
+out/
+.jar
+.war
